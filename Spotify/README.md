@@ -2,9 +2,6 @@
 
 A simple SPA website using Spotify's website/desktop concept as base.
 
-
-<b>* JUST FOR EDUCATIONAL PURPOSES ONLY. </b>
-
 ## Getting Started
 
 Before you start working with Spotify, consider following these steps.
@@ -31,13 +28,6 @@ A step by step series to get development enviroment working properly.
 #### NodeJS's Express client (API RESTful module)
 
 Start mongod service (Mongo's demon)
-
-```
-user@user-pc:~$ sudo service mongodb start
-
-// If Windows user
-    |_ Go to MongoDB path (PATH/MongoDB/Server/YOUR_VERSION_HERE/bin) and run mongod.exe
-
 ```
 
 Start Mongo Shell and Create the db
